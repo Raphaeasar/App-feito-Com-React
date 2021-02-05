@@ -14,4 +14,4 @@ Para baixar toda o framework.
 Depois basta executar o comando:
 
 	php artisan serve 
-Pronto o sistema já está rodando no link http://localhost:8000
+Pronto o sistema já está rodando no link http://localhost:8000/books
