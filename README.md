@@ -16,6 +16,14 @@ PHP 5.6 ou superior.
 Bom, para iniciar utilizando esse projeto basta baixar o zip aqui no github depois descompactar. Dentro da pasta raiz execute o comando:
 
 	composer install
+	
+Para baixar toda o framework.
+
+Depois basta executar o comando:
+
+	php artisan serve 
+
+Pronto o sistema já está rodando no link http://localhost:8000/books
 
 # Prerequisites
 Composer installed.
@@ -23,15 +31,11 @@ PHP 5.6 or higher.
 Well, to start using this project just download the zip here on github then unzip. Inside the root folder, run the command:
 
 	composer install
-Para baixar toda o framework.
 
 To download the entire framework.
-
-Depois basta executar o comando:
 
 Then just run the command:
 
 	php artisan serve 
-Pronto o sistema já está rodando no link http://localhost:8000/books
 
 Ready the system is already running on the link http://localhost:8000/books
