@@ -4,12 +4,6 @@ O projeto está na fase inicial, estarei implementando e colocando as próximas 
 
 Projeto - Biblioteca de livros 
 
-# CRUD-PHP-com-Laravel - Book Library
-The project is in its initial phase, I will be implementing and placing the next versions of the project. It consists of a CRUD in php with the framework (Laravel), it is a library, with the name of the Book and Author.
-
-
-Project - Book Library
-
 # Pré requisitos
 Composer instalado.
 PHP 5.6 ou superior.
@@ -24,6 +18,13 @@ Depois basta executar o comando:
 	php artisan serve 
 
 Pronto o sistema já está rodando no link http://localhost:8000/books
+
+# CRUD-PHP-com-Laravel - Book Library
+The project is in its initial phase, I will be implementing and placing the next versions of the project. It consists of a CRUD in php with the framework (Laravel), it is a library, with the name of the Book and Author.
+
+
+Project - Book Library
+
 
 # Prerequisites
 Composer installed.
