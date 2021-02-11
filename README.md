@@ -14,7 +14,8 @@ Project - Book Library
 Composer instalado.
 PHP 5.6 ou superior.
 Bom, para iniciar utilizando esse projeto basta baixar o zip aqui no github depois descompactar. Dentro da pasta raiz execute o comando:
-		composer install
+
+	composer install
 
 # Prerequisites
 Composer installed.
