@@ -19,7 +19,7 @@ Depois basta executar o comando:
 
 Pronto o sistema já está rodando no link http://localhost:8000/books
 
-# CRUD-PHP-com-Laravel - Book Library
+# CRUD-PHP-with-Laravel - Book Library
 The project is in its initial phase, I will be implementing and placing the next versions of the project. It consists of a CRUD in php with the framework (Laravel), it is a library, with the name of the Book and Author.
 
 
